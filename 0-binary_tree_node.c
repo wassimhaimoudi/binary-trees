@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_node - creates new tree node.
- * @parent: A pointer to the parent of the mode to create.
+ * @parent: A pointer to the parent of the node to create.
  * @value: The value to put in the new node.
  *
  * Return: A pointer to the new node on success, otherwise NULL.
